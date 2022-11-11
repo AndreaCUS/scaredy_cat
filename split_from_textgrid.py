@@ -1,6 +1,6 @@
 
 """
-This script will split longer .zav audio files into mulltiple .wav files,
+This script will split longer .wav audio files into mulltiple .wav files,
 using a TextGrid files where each individual vocalization or segment has been labelled.
 
 How to run the script:
